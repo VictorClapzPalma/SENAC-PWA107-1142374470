@@ -1,1 +1,1 @@
-# AREA DESTINADA PARA ENTREGA 
+# Area destinada para entrega de atividades para a materia DESENVOLVIMENTO WEB.
