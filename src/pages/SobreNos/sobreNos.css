@@ -1,0 +1,16 @@
+.tituloSobre{
+    text-align: center;
+    color: red;
+    padding-bottom: 20px;
+}
+
+.subtituloSobre{
+    text-align: center;
+    padding: 20px;
+}
+.conteudo{
+    font-size: large;
+    text-align: left;
+    padding: 10px
+    
+}

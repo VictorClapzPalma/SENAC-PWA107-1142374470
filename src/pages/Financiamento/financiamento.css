@@ -1,0 +1,40 @@
+.tituloFinanciamento{
+    text-align: center;
+    color: red;
+}
+
+.subtituloFinanciamento{
+    text-align: center;
+    padding: 40px;
+}
+.box{
+    padding: 5px;
+    display: block;
+}
+p{
+    text-align: center;
+}
+.botao{
+    font-family: 'Speedee_A_Bd';
+    background: #ffbc0d;
+    border: solid 3px #FFFFFF;
+    border-radius: 50px;
+    padding: 5px 40px;
+    width: 300px;
+    font-size: 25px;
+    font-weight: bold;
+    transition: 0.5s background;
+}
+.botao:hover{
+    font-family: 'Speedee_A_Bd';
+    background: red;
+    border: solid 3px #FFFFFF;
+    border-radius: 50px;
+    padding: 5px 40px;
+    width: 300px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    transition: 0.5s background;
+    transition: 0.5s color;
+}
